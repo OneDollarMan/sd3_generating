@@ -1,0 +1,14 @@
+torch~=2.4.1
+transformers~=4.44.2
+accelerate~=0.34.2
+sentencepiece~=0.2.0
+protobuf
+safetensors~=0.4.5
+pillow~=10.4.0
+datasets~=3.0.0
+numpy~=2.1.1
+packaging~=24.1
+tqdm~=4.66.5
+asyncio~=3.4.3
+aio_pika~=9.4.3
+peft~=0.12.0
